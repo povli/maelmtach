@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "921675391457",
+    "project_id": "school-deliver-and-love",
+    "storage_bucket": "school-deliver-and-love.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:921675391457:android:925552d360de5b2cf972a0",
+        "android_client_info": {
+          "package_name": "com.example.shooldelivandlove"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyACu9PjJP0SGDhfQ5hGd_1MVUGGH0E0MNM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
